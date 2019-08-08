@@ -1,0 +1,9 @@
+.container{
+    margin: 0 auto;
+    width: 50%;
+    border: 10px solid black;
+    height: 200px;
+}
+.container div{
+    padding:10px;
+}
